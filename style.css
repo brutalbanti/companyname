@@ -375,6 +375,7 @@ br.br-for-way {
         display: flex;
         flex-direction: column;
         margin-left: 3%;
+        margin-top: -34px;
     }
 
     .card>hr {
@@ -530,6 +531,13 @@ br.br-for-way {
 
     #btnGetStarted {
         margin-right: -1.1rem !important;
+    }
+    
+     #block-text-blog {
+        display: flex;
+        flex-direction: column;
+        margin-left: 3%;
+        margin-top: 0px;
     }
 }
 
